@@ -4,6 +4,6 @@
 
 
 
-------------------------------------- { this is my first repo for learnig and making_fun Projcts }---------------------------------------
+------------------------------------- { this is my practise code repo for learnig and making_fun Projcts }---------------------------------------
 
 
